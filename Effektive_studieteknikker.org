@@ -1,0 +1,159 @@
+#+title: Effektive studieteknikker 
+#+subtitle: 
+#+author: Jacob Debel
+#+date: 
+# Themes: beige|black|blood|league|moon|night|serif|simple|sky|solarized|white
+#+reveal_theme: night
+#+reveal_title_slide: <h2>%t</h2><h3>%s</h3><h4>%a</h4><h4>%d</h4>
+#+reveal_title_slide_background:
+#+reveal_default_slide_background:
+#+reveal_extra_options: slideNumber:"c",progress:true,transition:"slide",navigationMode:"default",history:false,hash:true
+# #+reveal_extra_attr: style="color:red"
+#+options: toc:nil num:nil tags:nil timestamp:nil ^:{}
+
+* Sammenpresset studeren
+Kender I det?
+
+#+reveal_html: <div style="display: grid; grid-template-columns: 30% auto;">
+#+reveal_html: <div>
+[[./img/cramming.png]]
+#+reveal_html: </div>
+
+#+reveal_html: <div>
+Forsøge at proppe så meget ind i hovedet som muligt på kort tid. Typisk lige før en eksamen.
+#+reveal_html: </div>
+#+reveal_html: </div>
+
+** Spild af tid!
+
+#+reveal_html: <div style="display: grid; grid-template-columns: 40% auto;">
+#+reveal_html: <div>
+[[./img/limbic-system-emotional-brain.jpg]]
+#+reveal_html: </div>
+
+#+reveal_html: <div>
+#+reveal_html: <div style="font-size: 60%;">
+- *Hippocampus* kan kun rumme en mindre mængde informationer ad gangen. Skal bruge relativ meget tid og en del pauser til at overføre informationerne til *hjernebakken*.
+#+reveal_html: </div>
+
+#+reveal_html: </div>
+#+reveal_html: </div>
+
+* Passiv genlæsning
+Kender I det?
+#+reveal_html: <div style="display: grid; grid-template-columns: 30% auto;">
+#+reveal_html: <div>
+[[./img/genlæsning.png]]
+#+reveal_html: </div>
+
+#+reveal_html: <div>
+At læse teksten igen og igen på samme måde. Ved passiv læsning menes der, at linjerne blot læses uden videre bearbejdning.
+#+reveal_html: </div>
+#+reveal_html: </div>
+
+** Spild af tid!
+
+#+reveal_html: <div style="display: grid; grid-template-columns: 30% auto;">
+#+reveal_html: <div>
+[[./img/benzin.png]]
+#+reveal_html: </div>
+
+#+reveal_html: <div>
+#+reveal_html: <div style="font-size: 60%;">
+- Passiv læsning svarer til at fylde benzin (informationer) på en bil, men der er hul i tanken (hjernen), og det meste af benzinen (informationen) løber ud på jorden.
+- For at informationer skal kunne lagres i *langtidshukommelsen*, kræves der en *udvidet indkodning* og/eller gentagne forsøg på *aktiv genkaldelse* fordelt over tid.
+#+reveal_html: </div>
+#+reveal_html: </div>
+#+reveal_html: </div>
+
+* Skrive-næsten-hele-bogen-af-metoden
+Kender I det?
+
+#+reveal_html: <div style="display: grid; grid-template-columns: 30% auto;">
+#+reveal_html: <div>
+[[./img/kopier.png]]
+#+reveal_html: </div>
+
+#+reveal_html: <div>
+- Skriver og skriver og skriver, men det er svært at nå at få det hele med.
+#+reveal_html: </div>
+#+reveal_html: </div>
+
+** Spild af tid og kræfter!
+
+#+reveal_html: <div style="display: grid; grid-template-columns: 30% auto;">
+#+reveal_html: <div>
+[[./img/kopier.png]]
+#+reveal_html: </div>
+
+#+reveal_html: <div>
+- Bedre end passiv genlæsning.
+- Bedre end noter skrevet på computeren.
+#+reveal_html: </div>
+#+reveal_html: </div>
+
+* Manglende fokus
+Kender I det?
+
+#+reveal_html: <div style="display: grid; grid-template-columns: 30% auto;">
+#+reveal_html: <div>
+#+attr_html: :width 300px
+[[./img/multitasking.png]]
+#+reveal_html: </div>
+
+#+reveal_html: <div>
+- Mobilen forstyrrer med beskeder og notifikationer.
+- Fjernsynet kører i baggrunden.
+- SOME mens I læser lektier.
+
+#+reveal_html: </div>
+#+reveal_html: </div>
+** Gør dette i stedet for
+
+- Mobil på flytilstand.
+- Sluk fjernsynes.
+- Hav fokus.
+* Der er håb endnu!
+
+[[./img/sved_paa_panden.png]]
+
+Det kræver bare *sved på panden*.
+* Gør dette!
+
+- Test jer selv.
+- Særlig notatteknik (så I kan teste jer selv).
+- Særlig læseteknik (så I kan teste jer selv).
+- Skab jeres egne spørgsmål.
+- Brug hukommelsesteknikker (Mnemoteknikker).
+* Test jer selv
+- Stil jer selv et spørgsmål (ud fra en tekst eller en lektie).
+- Find svaret til spørgsmålet kun ved brug af jeres hukommelse.
+- Tjek jeres svar i en lærebog eller i jeres noter.
+- I kan bruge *flashcards*.
+
+#+attr_html: :height 200
+[[./img/Front-and-back-revision-flashcards.webp]]
+* Notatteknik
+[[./img/noter.png]]
+
+#+reveal_html: <div style="font-size: 60%;">
+- Hold et blankt papir over svarene.
+- besvar spørgsmålene så godt, som I kan, ud fra hukommelsen.
+- Tjek jeres svar.
+- Brug flashcards som alternativ.
+- [[./Notatpapir.odt][odt-format]] [[./Notatpapir.docx][docx-format]] [[./Notatpapir.pdf][pdf-format]]
+#+reveal_html: </div>
+
+* 3 gange R-læseteknik
+- *R*​ead (Læs) teksten.
+- *R*​ecall (Recitér/genfortæl) for dig selv (tal gerne højt).
+- *R*​eread (Genlæs) teksten og tjek jeres hukommelse.
+* Skab jeres egne spørgsmål
+- Overblikslæs/skim jeres (læse)lektier.
+- Oversæt overskrifter, fremhævede ord og sætning til spørgsmål, *uden* at skrive svarene ned med det samme.
+- Læs jeres liste med spørgsmål igennem.
+- Læs nu teksten grundigt og noter svarene til spørgsmålene.
+- Brug den særlige notatteknik.
+- Test jer selv!
+* Mnemoteknikker
+[[./img/memory_palace.jpg]]
